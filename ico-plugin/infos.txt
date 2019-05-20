@@ -1,0 +1,15 @@
+Par défaut les valeurs de attributs sont : 
+
+   * color = 'black';
+   * padding = '9px';
+   * radius = '100%';
+
+Exemple de shortcode :
+
+	[ico color="red" padding="20px" radius="20px"]wordpress[/ico]
+
+Résultat HTML : 
+
+	<img style="background-color:red;padding:20px;border-radius:20px"
+		 alt="wordpress"
+		 src="http://esig-ju.ch/b74/sfa/voyages/wp-content/plugins/ico-plugin/img/wordpress.png">
