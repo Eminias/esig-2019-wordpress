@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77226740-c62b-4854-b071-6e923be7d406" name="Infomaniak ESIG" url="http://esig-ju.ch/b73/asc">
+        <fileTransfer host="amzx.ftp.infomaniak.com" port="21" rootFolder="/asc">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
