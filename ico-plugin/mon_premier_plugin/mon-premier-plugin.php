@@ -38,3 +38,4 @@ function mon_plugin_yoda_shortcode() {
 }
 //Enregistre le shortcode yoda
 add_shortcode( 'yoda', 'mon_plugin_yoda_shortcode' );
+
